@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-
+src/Main.java
 !**/src/main/**/out/
 !**/src/test/**/out/
 
@@ -27,6 +27,4 @@ bin/
 .vscode/
 
 .DS_Store
-.idea
 out
-.idea/misc.xml
