@@ -1,4 +1,4 @@
-package DataStructs;
+package DataStructs.Array;
 
 import java.util.Scanner;
 /**
@@ -7,9 +7,9 @@ import java.util.Scanner;
  * @github : <a href = https://github.com/Chethan-L-Gouda/Data-Structure-Java><u>Chethan L</u></a>
  *
  * <p>
- *     <h2>About DataStructs.IntArr:</h2>
+ *     <h2>About DataStructs.Array.IntArr:</h2>
  *     <b>
- *         <i>DataStructs.IntArr</i> is a class that can used to create array of integers.<br>
+ *         <i>DataStructs.Array.IntArr</i> is a class that can used to create array of integers.<br>
  *         They are implemented by using <i>one-dimensional array.</i><br>
  *         This class contains all the functions for basic operation on <i>Integer Array,</i><br>
  *         Such as : inserting,searching,sorting,deleting,displaying.

@@ -1,4 +1,4 @@
-package DataStructs;
+package DataStructs.Stack;
 
 /**
  * @author Chethan L
@@ -6,9 +6,9 @@ package DataStructs;
  * @github : <a href = https://github.com/Chethan-L-Gouda/Data-Structure-Java><u>Chethan L</u></a>
  *
  * <p>
- *     <h2>About DataStructs.StackArrImpl:</h2>
+ *     <h2>About DataStructs.Stack.StackArrImpl:</h2>
  *     <b>
- *         <i>DataStructs.StackArrImpl</i> is a class that can used to create Stacks.<br>
+ *         <i>DataStructs.Stack.StackArrImpl</i> is a class that can used to create Stacks.<br>
  *         The stacks are implemented by using <i>one-dimensional array.</i><br>
  *         This class contains all the functions for basic operation on <i>Stacks</i><br>
  *     </b>
