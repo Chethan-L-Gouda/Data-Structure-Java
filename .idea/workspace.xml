@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6783aca-1f3a-4d8b-9c96-806437ea8ff0" name="Changes" comment="added polyTerm">
-      <change afterPath="$PROJECT_DIR$/src/DataStructs/Polynomial/PolyExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructs/Polynomial/PolyTerm.java" afterDir="false" />
+    <list default="true" id="c6783aca-1f3a-4d8b-9c96-806437ea8ff0" name="Changes" comment="added new packages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data-Structure-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Structure-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructs/IntArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructs/Array/IntArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructs/PolyTerm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructs/Polynomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructs/StackArrImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructs/Stack/StackArrImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670084101442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added new packages">
+      <created>1670161439355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670161439356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +119,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated config" />
     <MESSAGE value="added polyTerm" />
-    <option name="LAST_COMMIT_MESSAGE" value="added polyTerm" />
+    <MESSAGE value="added new packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new packages" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
